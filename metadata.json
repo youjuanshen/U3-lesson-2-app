@@ -1,0 +1,8 @@
+{
+  "name": "G3 English Smart Class",
+  "description": "Interactive lesson companion for Grade 3 Unit 1-4 (Colors), featuring gamified activities and a timer-based assessment system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
